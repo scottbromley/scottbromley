@@ -4,7 +4,7 @@ I have a masters degree in Chemical Engineering, but I have spent the last two y
 
 ## I am currently learning 🌱
 
-* Increasing my knowledge of backend technology with Node.JS and Express
+* Increasing my knowledge of backend technology like Node.JS and Express
 * Taking my font-end design to the next level with Framer Motion animations and drag and drop components 🚀
 * 🦄 Exploring Web3, Ethers.JS and Solidity
 * Typescript
@@ -37,6 +37,14 @@ I have a masters degree in Chemical Engineering, but I have spent the last two y
 &nbsp &nbsp
 <a href="https://nextjs.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" style="height:50px;" alt="Next.JS"/>
+</a>
+&nbsp &nbsp
+<a href="https://redux.js.org/">
+  <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" style="height:50px;" alt="Next.JS"/>
+</a>
+&nbsp &nbsp
+<a href="https://github.com/scottbromley">
+  <img src="https://logodix.com/logo/701195.jpg" style="height:50px;" alt="Next.JS"/>
 </a>
 
 
