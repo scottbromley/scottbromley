@@ -1,21 +1,17 @@
-### About me 👋
+## About me 👋
 
-I have a masters degree in Chemical Engineering, but I have spent the last two years working as a Business Analyst. I have b
+I have a masters degree in Chemical Engineering, but I have spent the last two years working as a Business Analyst. I have been enjoying working with React and Next.JS and I am looking for opportunities to become a Full-Stack Developer!
 
-### I am currently learning 🌱
+## I am currently learning 🌱
+
+-Increasing my knowledge of backend technology with **Node.JS** and **Express**.
+-Exploring Web3, Ethers.js and solidity.
+-
+
+## My Tech Stack
+<a href="https://www.python.org"> 
+  <img src="images/python-logo.svg" alt="python" style="height:50px;"/>
+</a>
 
 
-<!--
-**scottbromley/scottbromley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
