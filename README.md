@@ -47,7 +47,7 @@ I have a masters degree in Chemical Engineering, but I have spent the last two y
   <img src="https://logodix.com/logo/701195.jpg" style="height:50px;" alt="Next.JS"/>
 </a>
 
-** Demo
+## Demo
 
 * React, AG-Grid, Chart.JS, Firebase, Framer Motion, Material UI (https://should-cost.web.app/)
 * React, React-Beautiful-Dnd, SendGrid, Material UI (www.xchangepro.co.uk)
