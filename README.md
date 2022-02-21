@@ -5,7 +5,7 @@ I have a masters degree in Chemical Engineering, but I have spent the last two y
 ## I am currently learning 🌱
 
 * Increasing my knowledge of backend technology like Node.JS and Express
-* Taking my font-end design to the next level with Framer Motion animations and drag and drop components
+* Framer Motion animations and drag and drop components
 * Exploring Web3, Ethers.JS and Solidity
 * Typescript
 
