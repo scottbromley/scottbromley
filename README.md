@@ -1,12 +1,12 @@
 ## About me 👋
 
-I have a masters degree in Chemical Engineering, but I have spent the last two years working as a Business Analyst. I have been coding in my spare time for the last 3 years, but recently I have been enjoying working with React and Next.JS which has ignited my love for coding 👨‍💻! I am now looking for opportunities to become a Full-Stack Developer!
+I have a masters degree in Chemical Engineering, but I have spent the last two years working as a Business Analyst. I have been coding in my spare time for 3 years, but recently I have been enjoying working with React and Next.JS which has ignited my love for coding. I am now looking to become a Full-Stack Developer!
 
 ## I am currently learning 🌱
 
 * Increasing my knowledge of backend technology like Node.JS and Express
-* Taking my font-end design to the next level with Framer Motion animations and drag and drop components 🚀
-* 🦄 Exploring Web3, Ethers.JS and Solidity
+* Taking my font-end design to the next level with Framer Motion animations and drag and drop components
+* Exploring Web3, Ethers.JS and Solidity
 * Typescript
 
 ## My Tech Stack
