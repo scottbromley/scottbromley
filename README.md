@@ -15,10 +15,6 @@ I have a masters degree in Chemical Engineering, but I have spent the last two y
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="height:50px;" alt="Python"/>
 </a>
 &nbsp &nbsp
-<a href="https://github.com/scottbromley">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="height:50px;" alt="SQL"/>
-</a>
-&nbsp &nbsp
 <a href="https://firebase.google.com/">
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" style="height:50px;" alt="Firebase"/>
 </a>
@@ -41,6 +37,10 @@ I have a masters degree in Chemical Engineering, but I have spent the last two y
 &nbsp &nbsp
 <a href="https://redux.js.org/">
   <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" style="height:50px;" alt="Next.JS"/>
+</a>
+&nbsp &nbsp
+<a href="https://github.com/scottbromley">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="height:50px;" alt="SQL"/>
 </a>
 &nbsp &nbsp
 <a href="https://github.com/scottbromley">
