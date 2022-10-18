@@ -1,12 +1,6 @@
-## About me 👋
+## About me 
 
-I am a software developer for a large food manufacturer. I enjoy front end technologies like React and Next.JS, but more recently have been building REST APIs using .NET core.
-
-## I am currently learning 🌱
-
-* Increasing my knowledge of Node.JS and Express
-* Docker and Kubernetes
-* Exploring Web3, Ethers.JS and Solidity
+I am a software developer for a large food manufacturer. I like working with React and Next.JS. Experience building REST APIs using .NET core.
 
 ## Check out...
 * I have just released a React Native app to the App Store called Pencil It In
@@ -19,8 +13,8 @@ I am a software developer for a large food manufacturer. I enjoy front end techn
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="height:50px;" alt="Python"/>
 </a>
 &nbsp &nbsp
-<a href="https://firebase.google.com/">
-  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" style="height:50px;" alt="Firebase"/>
+<a href="https://github.com/scottbromley">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Ftypescript_5968381&psig=AOvVaw0xeSdATglt2twlUlGNYNqe&ust=1666150228995000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjni7br6PoCFQAAAAAdAAAAABAE" style="height:50px;" alt="CSS"/>
 </a>
 &nbsp &nbsp
 <a href="https://github.com/scottbromley">
@@ -45,6 +39,10 @@ I am a software developer for a large food manufacturer. I enjoy front end techn
 &nbsp &nbsp
 <a href="https://github.com/scottbromley">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="height:50px;" alt="SQL"/>
+</a>
+&nbsp &nbsp
+<a href="https://firebase.google.com/">
+  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" style="height:50px;" alt="Firebase"/>
 </a>
 &nbsp &nbsp
 <a href="https://github.com/scottbromley">
