@@ -14,7 +14,7 @@ I am a software developer for a large food manufacturer. I like working with Rea
 </a>
 &nbsp &nbsp
 <a href="https://github.com/scottbromley">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Ftypescript_5968381&psig=AOvVaw0xeSdATglt2twlUlGNYNqe&ust=1666150228995000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjni7br6PoCFQAAAAAdAAAAABAE" style="height:50px;" alt="CSS"/>
+  <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" style="height:50px;" alt="CSS"/>
 </a>
 &nbsp &nbsp
 <a href="https://github.com/scottbromley">
