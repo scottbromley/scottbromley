@@ -1,13 +1,17 @@
 ## About me 👋
 
-I have a masters degree in Chemical Engineering, but I have spent the last two years working as a Business Analyst. I have been coding in my spare time for 3 years, but recently I have enjoyed learning React and Next.JS which has ignited my love for coding. I am now looking to become a Developer!
+I have a masters degree in Chemical Engineering, but I am working as a software developer. I have been coding in my spare time for 3 years, but recently I have enjoyed learning React and Next.JS which has ignited my love for coding. I am now looking to become a Developer!
 
 ## I am currently learning 🌱
 
-* Increasing my knowledge of backend technology like Node.JS and Express
-* Framer Motion animations and drag and drop components
+* Increasing my knowledge of Node.JS and Express
+* Docker and Kubernetes
 * Exploring Web3, Ethers.JS and Solidity
-* Typescript
+
+## Check out...
+* I have just released a React Native app to the App Store called Pencil It In
+* Follow the link below to check it out!
+* https://apps.apple.com/gb/app/pencil-it-in/id1641874586
 
 ## My Tech Stack
 
@@ -47,11 +51,6 @@ I have a masters degree in Chemical Engineering, but I have spent the last two y
   <img src="https://logodix.com/logo/701195.jpg" style="height:50px;" alt="Next.JS"/>
 </a>
 
-## Demo
-
-* React, AG-Grid, Chart.JS, Firebase, Framer Motion, Material UI (https://should-cost.web.app/)
-* React, React-Beautiful-Dnd, SendGrid, Material UI (www.xchangepro.co.uk)
-* Next.JS, Tailwind, MongoDB (https://next-js-demo-ltebitfed-scottbromley.vercel.app/)
 
 
 
