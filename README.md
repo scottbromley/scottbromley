@@ -1,6 +1,6 @@
 ## About me 👋
 
-I have a masters degree in Chemical Engineering, but I am working as a software developer. I have been coding in my spare time for 3 years, but recently I have enjoyed learning React and Next.JS which has ignited my love for coding. I am now looking to become a Developer!
+I am a software developer for a large food manufacturer. I enjoy front end technologies like React and Next.JS, but more recently have been building REST APIs using .NET core.
 
 ## I am currently learning 🌱
 
