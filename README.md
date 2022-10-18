@@ -18,6 +18,18 @@ I am a software developer for a large food manufacturer. I like working with Rea
 </a>
 &nbsp &nbsp
 <a href="https://github.com/scottbromley">
+  <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" style="height:50px;" alt="CSS"/>
+</a>
+&nbsp &nbsp
+<a href="https://github.com/scottbromley">
+  <img src="https://anypoint.mulesoft.com/exchange/organizations/68ef9520-24e9-4cf2-b2f5-620025690913/assets/org.mule.modules/mule-module-dotnet-connector/icon/png/?sha=c478954da55cc9ae5fe4657afe536b53af754a0c" style="height:50px;" alt="CSS"/>
+</a>
+&nbsp &nbsp
+<a href="https://github.com/scottbromley">
+  <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" style="height:50px;" alt="CSS"/>
+</a>
+&nbsp &nbsp
+<a href="https://github.com/scottbromley">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="height:50px;" alt="CSS"/>
 </a>
 &nbsp &nbsp
